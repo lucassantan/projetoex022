@@ -1,0 +1,17 @@
+                                                                                                                                    @charset "UTF-8";
+                                                                                                                                root {
+                                                                                                                                    --cor0: black;
+                                                                                                                                    --cor1: #82ad95;
+                                                                                                                                    --cor2: rgb(181, 106, 252);
+                                                                                                                                    --fonte-padrao: arial, --fonte-destaque: 'bebas neue,cursive' verdana, sans-serif;
+                                                                                                                                    body {
+                                                                                                                                        background-color: rgb(224, 13, 13);
+                                                                                                                                    }
+                                                                                                                                    header {
+                                                                                                                                        color: var(--cor1);
+                                                                                                                                        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+                                                                                                                                        background-color: blueviolet;
+                                                                                                                                    }
+                                                                                                                                    main h1 {
+                                                                                                                                        color: var(--cor2);
+                                                                                                                                    }
